@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tk2749/Project/master)
 ## Background
 Managers at Pacer Trendpilot ETFs claim that investing in the PTLC fund can yield similar returns to the S&P500 while minimizing risk. They claim this is achieved by being fully invested in the S&P500 during a bull (uptrending) market while not investing or only partly investing in the S&P500 during a bear (downtrending) market. The PTLC fund was founded in 2015 so data only exists about this fund during a bull market. It is therefore not easy to determine how this fund would performed during bear markets or during market crashes. The question I want to answer with this project is,
 
